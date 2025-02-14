@@ -5,14 +5,14 @@ AI-powered chatbot that helps users optimize their LinkedIn profiles, analyze jo
 
 # Documentation:
 Architecture and approach overview
-<https://github.com/Styleebender/LearnTube_CareerSync/blob/main/Documentation.pdf>
+<https://github.com/Styleebender/CareerSync_Chatbot/blob/main/Documentation.pdf>
 
 # Prerequisites
 Python 3.11 (preferred Python version)
 
 # Setup Instructions
 **1. Clone the Repository**
-```git clone https://github.com/Styleebender/LearnTube_CareerSync.git```
+```git clone https://github.com/Styleebender/CareerSync_Chatbot.git```
 
 **2. Create a Virtual Environment**
 ```
